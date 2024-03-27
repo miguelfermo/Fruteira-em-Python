@@ -4,3 +4,5 @@
 
 <h5> Esse programa corresponde a um software de uma fruteira a qual pode ser feito compras através dele. </h5>
 
+<h6> Criado com ribarski. </h6>
+
