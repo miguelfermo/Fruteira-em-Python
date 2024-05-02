@@ -10,5 +10,5 @@ Esse programa corresponde a um software de uma fruteira a qual pode ser feito co
 Apenas clique em run dentro do arquivo python.
 
 ## 📖 Contribuidores:
-Criado com [Eduardo Ribarski](github.com/ribarski) e [Weslaine Santana](github.com/weslainesantana).
+Criado com [Eduardo Ribarski](https://github.com/ribarski) e [Weslaine Santana](https://github.com/weslainesantana).
 
