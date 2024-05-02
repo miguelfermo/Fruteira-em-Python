@@ -1,8 +1,14 @@
-<h1> Software de uma fruteira!!! </h1>
+# 🍎 | Software de uma fruteira!
 
-<h4> Esse é um código amador escrito na linguagem Python criado em Junho de 2023 para uma apresentação da disciplina 'Programação para a Engenharia' da primeira fase de Engenharia de Software. </h4>
+Esse é um código amador escrito na linguagem Python criado em Junho de 2023 para uma apresentação da disciplina 'Programação para a Engenharia' da primeira fase de Engenharia de Software.
+Esse programa corresponde a um software de uma fruteira a qual pode ser feito compras através dele.
 
-<h5> Esse programa corresponde a um software de uma fruteira a qual pode ser feito compras através dele. </h5>
+## 🔧 Intalação:
+1. Clone este repositório com `git clone` ou baixe o código-fonte.
 
-<h6> Criado com ribarski e weslainesantana. </h6>
+## 🚀 Execução:
+Apenas clique em run dentro do arquivo python.
+
+## 📖 Contribuidores:
+Criado com [Eduardo Ribarski](github.com/ribarski) e [Weslaine Santana](github.com/weslainesantana).
 
